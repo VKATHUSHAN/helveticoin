@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./ui/src/*"],
+      "@contracts/*": ["./contracts/*"],
+      "@scripts/*": ["./scripts/*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "ui/**/*.ts",
+    "ui/**/*.tsx",
+    "contracts/**/*.ts",
+    "scripts/**/*.py"
+  ],
+  "exclude": [
+    "node_modules",
+    "ui/node_modules",
+    "contracts/node_modules",
+    "ui/.next",
+    "contracts/artifacts",
+    "contracts/cache",
+    "contracts/out",
+    "scripts/__pycache__"
+  ]
+}

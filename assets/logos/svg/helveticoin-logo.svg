@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Swiss Flag Background Circle -->
+  <circle cx="128" cy="128" r="120" fill="#FF0000" stroke="#FFFFFF" stroke-width="4"/>
+  
+  <!-- Swiss Cross -->
+  <rect x="108" y="88" width="40" height="80" fill="#FFFFFF"/>
+  <rect x="88" y="108" width="80" height="40" fill="#FFFFFF"/>
+  
+  <!-- Swiss Cow Head (Simplified) -->
+  <ellipse cx="128" cy="180" rx="45" ry="35" fill="#FFFFFF"/>
+  <ellipse cx="128" cy="175" rx="35" ry="25" fill="#F5F5F5"/>
+  
+  <!-- Cow Spots -->
+  <ellipse cx="115" cy="170" rx="8" ry="6" fill="#333333"/>
+  <ellipse cx="140" cy="180" rx="6" ry="8" fill="#333333"/>
+  <ellipse cx="125" cy="185" rx="5" ry="4" fill="#333333"/>
+  
+  <!-- Cow Eyes -->
+  <circle cx="120" cy="172" r="3" fill="#333333"/>
+  <circle cx="136" cy="172" r="3" fill="#333333"/>
+  <circle cx="121" cy="171" r="1" fill="#FFFFFF"/>
+  <circle cx="137" cy="171" r="1" fill="#FFFFFF"/>
+  
+  <!-- Cow Nose -->
+  <ellipse cx="128" cy="180" rx="4" ry="2" fill="#FF69B4"/>
+  
+  <!-- Cow Horns -->
+  <path d="M 115 160 Q 110 155 108 150" stroke="#D2691E" stroke-width="3" fill="none"/>
+  <path d="M 141 160 Q 146 155 148 150" stroke="#D2691E" stroke-width="3" fill="none"/>
+  
+  <!-- HCHF Text -->
+  <text x="128" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">HCHF</text>
+  <text x="128" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF">MEME</text>
+</svg>

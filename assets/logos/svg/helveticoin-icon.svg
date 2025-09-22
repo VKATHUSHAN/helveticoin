@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="128" cy="128" r="120" fill="#FF0000"/>
+  
+  <!-- Swiss Cow Head (Centered) -->
+  <ellipse cx="128" cy="128" rx="60" ry="45" fill="#FFFFFF"/>
+  <ellipse cx="128" cy="120" rx="45" ry="35" fill="#F5F5F5"/>
+  
+  <!-- Cow Spots -->
+  <ellipse cx="105" cy="115" rx="12" ry="9" fill="#333333"/>
+  <ellipse cx="150" cy="125" rx="10" ry="12" fill="#333333"/>
+  <ellipse cx="130" cy="140" rx="8" ry="6" fill="#333333"/>
+  <ellipse cx="115" cy="135" rx="6" ry="8" fill="#333333"/>
+  
+  <!-- Cow Eyes -->
+  <circle cx="115" cy="110" r="4" fill="#333333"/>
+  <circle cx="141" cy="110" r="4" fill="#333333"/>
+  <circle cx="116" cy="109" r="1.5" fill="#FFFFFF"/>
+  <circle cx="142" cy="109" r="1.5" fill="#FFFFFF"/>
+  
+  <!-- Cow Nose -->
+  <ellipse cx="128" cy="125" rx="6" ry="3" fill="#FF69B4"/>
+  
+  <!-- Cow Horns -->
+  <path d="M 105 95 Q 98 88 95 80" stroke="#D2691E" stroke-width="4" fill="none"/>
+  <path d="M 151 95 Q 158 88 161 80" stroke="#D2691E" stroke-width="4" fill="none"/>
+  
+  <!-- Cow Ears -->
+  <ellipse cx="95" cy="105" rx="8" ry="15" fill="#FFB6C1" transform="rotate(-30 95 105)"/>
+  <ellipse cx="161" cy="105" rx="8" ry="15" fill="#FFB6C1" transform="rotate(30 161 105)"/>
+  
+  <!-- Swiss Cross (small, on forehead) -->
+  <rect x="123" y="95" width="10" height="20" fill="#FF0000"/>
+  <rect x="118" y="100" width="20" height="10" fill="#FF0000"/>
+</svg>

@@ -1,0 +1,84 @@
+{
+  "quarters": {
+    "q4_2025": {
+      "title": "Q4 2025 - Foundation & Launch",
+      "items": [
+        "Smart contract development and security audits",
+        "Regulatory compliance framework establishment",
+        "Initial token minting and distribution",
+        "Community building and partnerships",
+        "Testnet deployment and extensive testing"
+      ]
+    },
+    "q1_2026": {
+      "title": "Q1 2026 - Mainnet & Ecosystem",
+      "items": [
+        "Mainnet launch on Ethereum",
+        "DEX listings and liquidity provision",
+        "Integration with major DeFi protocols",
+        "Mobile wallet application release",
+        "Institutional partnership program launch"
+      ]
+    },
+    "q2_2026": {
+      "title": "Q2 2026 - Multi-Chain Expansion",
+      "items": [
+        "Tron network deployment",
+        "Cross-chain bridge implementation",
+        "Payment gateway integrations",
+        "Swiss banking partnerships",
+        "Compliance certification completion"
+      ]
+    },
+    "q3_2026": {
+      "title": "Q3 2026 - DeFi Integration",
+      "items": [
+        "Yield farming protocols launch",
+        "Lending and borrowing platform",
+        "Insurance coverage implementation",
+        "Governance token introduction",
+        "DAO structure establishment"
+      ]
+    },
+    "q4_2026": {
+      "title": "Q4 2026 - Enterprise Adoption",
+      "items": [
+        "Corporate treasury solutions",
+        "B2B payment infrastructure",
+        "API marketplace launch",
+        "Institutional custody solutions",
+        "Traditional finance integrations"
+      ]
+    },
+    "q1_2027": {
+      "title": "Q1 2027 - Global Expansion",
+      "items": [
+        "European market penetration",
+        "Additional fiat currency pairs",
+        "Regulatory approvals expansion",
+        "Regional banking partnerships",
+        "Localized customer support"
+      ]
+    },
+    "q2_2027": {
+      "title": "Q2 2027 - Innovation Hub",
+      "items": [
+        "Research and development center",
+        "Academic partnerships",
+        "Open-source tooling suite",
+        "Developer grants program",
+        "Innovation incubator launch"
+      ]
+    },
+    "future": {
+      "title": "Beyond 2027 - Sustainable Growth",
+      "items": [
+        "Carbon-neutral blockchain operations",
+        "AI-powered risk management",
+        "Quantum-resistant security upgrades",
+        "Next-generation scalability solutions",
+        "Global financial infrastructure integration"
+      ]
+    }
+  }
+}

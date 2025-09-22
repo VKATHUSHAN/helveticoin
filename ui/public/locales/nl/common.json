@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "HelvetiCoin (HCHF) - Zwitserse Stabiliteit op Ethereum & Tron",
+    "description": "Ervaar Zwitserse precisie in digitale valuta. HelvetiCoin (HCHF) brengt de stabiliteit van de Zwitserse Frank naar het blockchain-ecosysteem met professionele beveiliging en compliance."
+  },
+  "navigation": {
+    "home": "Home",
+    "roadmap": "Roadmap",
+    "docs": "Documentatie",
+    "about": "Over Ons",
+    "language": "Taal"
+  },
+  "hero": {
+    "headline": "Zwitserse Stabiliteit op Ethereum & Tron",
+    "subtitle": "Ervaar de precisie van Zwitserse financiële engineering in digitale vorm. HelvetiCoin (HCHF) brengt de stabiliteit van de Zwitserse Frank naar de gedecentraliseerde wereld.",
+    "cta": "Verbind Wallet",
+    "learnMore": "Meer Leren"
+  },
+  "features": {
+    "title": "Waarom HelvetiCoin Kiezen?",
+    "stability": {
+      "title": "Zwitserse Frank Stabiliteit",
+      "description": "Ondersteund door de kracht en stabiliteit van de Zwitserse Frank, een van 's werelds sterkste valuta's."
+    },
+    "security": {
+      "title": "Bank-Grade Beveiliging",
+      "description": "Gebouwd met OpenZeppelin contracten en geauditeerd door toonaangevende beveiligingsbedrijven voor maximale bescherming."
+    },
+    "compliance": {
+      "title": "Regelgeving Compliant",
+      "description": "Ontworpen om te voldoen aan Zwitserse en internationale regelgevingsstandaarden met ingebouwde compliance functies."
+    },
+    "multichain": {
+      "title": "Multi-Chain Ondersteuning",
+      "description": "Beschikbaar op Ethereum en Tron netwerken met naadloze cross-chain functionaliteit."
+    }
+  },
+  "wallet": {
+    "connect": "Verbind Wallet",
+    "connecting": "Verbinden...",
+    "connected": "Verbonden",
+    "disconnect": "Ontkoppelen",
+    "wrongNetwork": "Verkeerd Netwerk",
+    "switchNetwork": "Verander Netwerk",
+    "balance": "Saldo",
+    "address": "Adres"
+  },
+  "roadmap": {
+    "title": "Ontwikkelingsroadmap",
+    "subtitle": "Onze reis naar het brengen van Zwitserse precisie naar de blockchain"
+  },
+  "footer": {
+    "tagline": "Zwitserse Precisie. Blockchain Innovatie.",
+    "links": {
+      "docs": "Documentatie",
+      "github": "GitHub",
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "legal": {
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "disclaimer": "Risico Disclaimer"
+    },
+    "copyright": "© 2024 HelvetiCoin. Alle rechten voorbehouden."
+  }
+}

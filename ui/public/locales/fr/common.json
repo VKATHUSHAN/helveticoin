@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "HelvetiCoin (HCHF) - Stabilité Suisse sur Ethereum & Tron",
+    "description": "Découvrez la précision suisse en monnaie numérique. HelvetiCoin (HCHF) apporte la stabilité du franc suisse à l'écosystème blockchain avec une sécurité et une conformité de niveau professionnel."
+  },
+  "navigation": {
+    "home": "Accueil",
+    "roadmap": "Feuille de Route",
+    "docs": "Documentation",
+    "about": "À Propos",
+    "language": "Langue"
+  },
+  "hero": {
+    "headline": "Stabilité Suisse sur Ethereum & Tron",
+    "subtitle": "Découvrez la précision de l'ingénierie financière suisse sous forme numérique. HelvetiCoin (HCHF) apporte la stabilité du franc suisse au monde décentralisé.",
+    "cta": "Connecter Portefeuille",
+    "learnMore": "En Savoir Plus"
+  },
+  "features": {
+    "title": "Pourquoi Choisir HelvetiCoin?",
+    "stability": {
+      "title": "Stabilité du Franc Suisse",
+      "description": "Soutenu par la force et la stabilité du franc suisse, l'une des monnaies les plus fortes au monde."
+    },
+    "security": {
+      "title": "Sécurité Bancaire",
+      "description": "Construit avec des contrats OpenZeppelin et audité par des entreprises de sécurité de premier plan pour une protection maximale."
+    },
+    "compliance": {
+      "title": "Conformité Réglementaire",
+      "description": "Conçu pour répondre aux normes réglementaires suisses et internationales avec des fonctionnalités de conformité intégrées."
+    },
+    "multichain": {
+      "title": "Support Multi-Chaînes",
+      "description": "Disponible sur les réseaux Ethereum et Tron avec une fonctionnalité cross-chain transparente."
+    }
+  },
+  "wallet": {
+    "connect": "Connecter Portefeuille",
+    "connecting": "Connexion...",
+    "connected": "Connecté",
+    "disconnect": "Déconnecter",
+    "wrongNetwork": "Mauvais Réseau",
+    "switchNetwork": "Changer de Réseau",
+    "balance": "Solde",
+    "address": "Adresse"
+  },
+  "roadmap": {
+    "title": "Feuille de Route de Développement",
+    "subtitle": "Notre parcours pour apporter la précision suisse à la blockchain"
+  },
+  "footer": {
+    "tagline": "Précision Suisse. Innovation Blockchain.",
+    "links": {
+      "docs": "Documentation",
+      "github": "GitHub",
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "legal": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions de Service",
+      "disclaimer": "Avertissement sur les Risques"
+    },
+    "copyright": "© 2024 HelvetiCoin. Tous droits réservés."
+  }
+}

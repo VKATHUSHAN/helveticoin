@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "HelvetiCoin (HCHF) - Swiss-Minted Stability on Ethereum & Tron",
+    "description": "Experience Swiss precision in digital currency. HelvetiCoin (HCHF) brings the stability of the Swiss Franc to the blockchain ecosystem with professional-grade security and compliance."
+  },
+  "navigation": {
+    "home": "Home",
+    "roadmap": "Roadmap",
+    "docs": "Documentation",
+    "about": "About",
+    "language": "Language"
+  },
+  "hero": {
+    "headline": "Swiss-Minted Stability on Ethereum & Tron",
+    "subtitle": "Experience the precision of Swiss financial engineering in digital form. HelvetiCoin (HCHF) brings the stability of the Swiss Franc to the decentralized world.",
+    "cta": "Connect Wallet",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose HelvetiCoin?",
+    "stability": {
+      "title": "Swiss Franc Stability",
+      "description": "Backed by the strength and stability of the Swiss Franc, one of the world's strongest currencies."
+    },
+    "security": {
+      "title": "Bank-Grade Security",
+      "description": "Built with OpenZeppelin contracts and audited by leading security firms for maximum protection."
+    },
+    "compliance": {
+      "title": "Regulatory Compliant",
+      "description": "Designed to meet Swiss and international regulatory standards with built-in compliance features."
+    },
+    "multichain": {
+      "title": "Multi-Chain Support",
+      "description": "Available on Ethereum and Tron networks with seamless cross-chain functionality."
+    }
+  },
+  "wallet": {
+    "connect": "Connect Wallet",
+    "connecting": "Connecting...",
+    "connected": "Connected",
+    "disconnect": "Disconnect",
+    "wrongNetwork": "Wrong Network",
+    "switchNetwork": "Switch Network",
+    "balance": "Balance",
+    "address": "Address"
+  },
+  "roadmap": {
+    "title": "Development Roadmap",
+    "subtitle": "Our journey to bringing Swiss precision to the blockchain"
+  },
+  "footer": {
+    "tagline": "Swiss Precision. Blockchain Innovation.",
+    "links": {
+      "docs": "Documentation",
+      "github": "GitHub",
+      "twitter": "Twitter",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Risk Disclaimer"
+    },
+    "copyright": "© 2024 HelvetiCoin. All rights reserved."
+  }
+}

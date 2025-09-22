@@ -1,0 +1,51 @@
+{
+  "name": "HelvetiCoin",
+  "symbol": "HCHF-MEME",
+  "address": "0x0000000000000000000000000000000000000000",
+  "decimals": 18,
+  "chainId": 1,
+  "network": "ethereum",
+  "description": "Swiss-themed meme token featuring a friendly Swiss cow mascot. Combining Alpine charm with crypto innovation.",
+  "website": "https://helveticoin.swiss",
+  "twitter": "https://twitter.com/helveticoin_ch",
+  "telegram": "https://t.me/helveticoin_official",
+  "discord": "https://discord.gg/helveticoin",
+  "github": "https://github.com/VKATHUSHAN/helveticoin",
+  "logo": "https://raw.githubusercontent.com/VKATHUSHAN/helveticoin/main/assets/logos/png/helveticoin-logo-256.png",
+  "tags": [
+    "meme",
+    "swiss",
+    "community",
+    "ethereum"
+  ],
+  "social": {
+    "twitter": "helveticoin_ch",
+    "telegram": "helveticoin_official",
+    "discord": "helveticoin",
+    "reddit": "",
+    "facebook": "",
+    "instagram": ""
+  },
+  "links": {
+    "etherscan": "https://etherscan.io/token/0x0000000000000000000000000000000000000000",
+    "coingecko": "",
+    "coinmarketcap": "",
+    "dextools": "https://www.dextools.io/app/en/ether/pair-explorer/TBD",
+    "uniswap": "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x0000000000000000000000000000000000000000"
+  },
+  "tokenomics": {
+    "totalSupply": "1000000000",
+    "circulatingSupply": "1000000000",
+    "maxSupply": "1000000000",
+    "burnedTokens": "0"
+  },
+  "audit": {
+    "audited": false,
+    "auditReport": "",
+    "auditor": ""
+  },
+  "kyc": {
+    "kycCompleted": false,
+    "kycProvider": ""
+  }
+}

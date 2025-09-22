@@ -1,0 +1,43 @@
+{
+  "name": "HelvetiCoin",
+  "website": "https://helveticoin.swiss",
+  "description": "HelvetiCoin (HCHF-MEME) is a Swiss-themed meme cryptocurrency featuring a friendly Swiss cow mascot. Built on Ethereum, it combines Swiss precision with meme culture, bringing Alpine charm to the crypto space.",
+  "explorer": "https://etherscan.io/token/0x0000000000000000000000000000000000000000",
+  "type": "ERC20",
+  "symbol": "HCHF-MEME",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0000000000000000000000000000000000000000",
+  "tags": [
+    "meme",
+    "swiss",
+    "community"
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/VKATHUSHAN/helveticoin"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/helveticoin_ch"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/helveticoin_official"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/helveticoin"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": ""
+    },
+    {
+      "name": "coingecko",
+      "url": ""
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,45 @@
+{
+  "name": "HelvetiCoin",
+  "symbol": "HCHF-MEME",
+  "address": "0x0000000000000000000000000000000000000000",
+  "decimals": 18,
+  "chainId": 1,
+  "logoURI": "https://raw.githubusercontent.com/VKATHUSHAN/helveticoin/main/assets/logos/png/helveticoin-logo-256.png",
+  "tags": [
+    "meme",
+    "swiss",
+    "community"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "helveticoin",
+    "hchf",
+    "meme",
+    "swiss",
+    "cow",
+    "alpine",
+    "switzerland"
+  ],
+  "timestamp": "2024-01-01T00:00:00.000Z",
+  "tokenInfo": {
+    "name": "HelvetiCoin",
+    "symbol": "HCHF-MEME",
+    "decimals": 18,
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/VKATHUSHAN/helveticoin/main/assets/logos/png/helveticoin-logo-256.png"
+  },
+  "extensions": {
+    "website": "https://helveticoin.swiss",
+    "twitter": "helveticoin_ch",
+    "telegram": "helveticoin_official",
+    "discord": "helveticoin",
+    "description": "Swiss-themed meme token featuring a friendly Swiss cow mascot",
+    "explorer": "https://etherscan.io/token/0x0000000000000000000000000000000000000000",
+    "github": "https://github.com/VKATHUSHAN/helveticoin"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "helveticoin",
+  "symbol": "hchf-meme",
+  "name": "HelvetiCoin",
+  "web_slug": "helveticoin",
+  "asset_platform_id": "ethereum",
+  "platforms": {
+    "ethereum": "0x0000000000000000000000000000000000000000"
+  },
+  "detail_platforms": {
+    "ethereum": {
+      "decimal_place": 18,
+      "contract_address": "0x0000000000000000000000000000000000000000"
+    }
+  },
+  "block_time_in_minutes": 0,
+  "hashing_algorithm": null,
+  "categories": [
+    "Meme Token",
+    "Ethereum Ecosystem"
+  ],
+  "public_notice": null,
+  "additional_notices": [],
+  "description": {
+    "en": "HelvetiCoin (HCHF-MEME) is a Swiss-themed meme cryptocurrency featuring a friendly Swiss cow mascot. Built on Ethereum, it combines the reliability and precision associated with Switzerland with the fun and community-driven nature of meme tokens. The project aims to bring Swiss Alpine charm to the crypto space while building a strong community around Swiss values of quality, precision, and reliability."
+  },
+  "links": {
+    "homepage": [
+      "https://helveticoin.swiss",
+      "",
+      ""
+    ],
+    "blockchain_site": [
+      "https://etherscan.io/token/0x0000000000000000000000000000000000000000",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "official_forum_url": [
+      "",
+      "",
+      ""
+    ],
+    "chat_url": [
+      "https://t.me/helveticoin_official",
+      "https://discord.gg/helveticoin",
+      ""
+    ],
+    "announcement_url": [
+      "",
+      ""
+    ],
+    "twitter_screen_name": "helveticoin_ch",
+    "facebook_username": "",
+    "bitcointalk_thread_identifier": null,
+    "telegram_channel_identifier": "helveticoin_official",
+    "subreddit_url": null,
+    "repos_url": {
+      "github": [
+        "https://github.com/VKATHUSHAN/helveticoin"
+      ],
+      "bitbucket": []
+    }
+  },
+  "image": {
+    "thumb": "https://assets.coingecko.com/coins/images/placeholder/thumb/helveticoin.png",
+    "small": "https://assets.coingecko.com/coins/images/placeholder/small/helveticoin.png",
+    "large": "https://assets.coingecko.com/coins/images/placeholder/large/helveticoin.png"
+  },
+  "country_origin": "CH",
+  "genesis_date": null,
+  "sentiment_votes_up_percentage": null,
+  "sentiment_votes_down_percentage": null,
+  "market_cap_rank": null,
+  "coingecko_rank": null,
+  "coingecko_score": null,
+  "developer_score": null,
+  "community_score": null,
+  "liquidity_score": null,
+  "public_interest_score": null
+}

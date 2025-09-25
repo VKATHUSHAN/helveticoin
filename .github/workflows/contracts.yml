@@ -1,0 +1,132 @@
+name: Smart Contracts CI/CD
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths: 
+      - 'contracts/**'
+      - 'foundry.toml'
+      - '.github/workflows/contracts.yml'
+  pull_request:
+    branches: [ main, develop ]
+    paths:
+      - 'contracts/**'
+      - 'foundry.toml'
+      - '.github/workflows/contracts.yml'
+
+jobs:
+  test-hardhat:
+    name: Hardhat Tests
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: 'contracts/package-lock.json'
+
+    - name: Install dependencies
+      run: |
+        cd contracts
+        npm install
+
+    - name: Compile contracts
+      run: |
+        cd contracts
+        npm run compile
+
+    - name: Run Hardhat tests
+      run: |
+        cd contracts
+        npm run test
+
+    - name: Generate gas report
+      run: |
+        cd contracts
+        npm run gas-report
+      env:
+        REPORT_GAS: true
+
+    - name: Upload test results
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: hardhat-test-results
+        path: |
+          contracts/coverage/
+          contracts/gas-report.txt
+
+  test-foundry:
+    name: Foundry Tests
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
+    - name: Install Foundry
+      uses: foundry-rs/foundry-toolchain@v1
+      with:
+        version: nightly
+
+    - name: Install dependencies
+      run: forge install
+
+    - name: Run Forge build
+      run: |
+        forge --version
+        forge build --sizes
+
+    - name: Run Forge tests
+      run: |
+        forge test -vvv
+
+    - name: Run Forge coverage
+      run: |
+        forge coverage --report lcov
+
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v4
+      with:
+        file: ./lcov.info
+        flags: foundry
+        name: foundry-coverage
+
+  lint-contracts:
+    name: Lint Smart Contracts
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: 'contracts/package-lock.json'
+
+    - name: Install dependencies
+      run: |
+        cd contracts
+        npm install
+
+    - name: Run Solhint
+      run: |
+        cd contracts
+        npm run lint
+
+    - name: Run Prettier check
+      run: |
+        cd contracts
+        npm run format -- --check

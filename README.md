@@ -1,22 +1,40 @@
-# HelvetiCoin (HCHF) 🇨🇭
+# HelvetiCoin (HCHF) - Swiss Meme Revolution 🇨🇭🚀
 
-**Swiss-Minted Stability on Ethereum & Tron**
+**Swiss Precision meets Meme Culture on Multi-Chain**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contracts CI](https://github.com/VKATHUSHAN/helveticoin/workflows/Smart%20Contracts%20CI%2FCD/badge.svg)](https://github.com/VKATHUSHAN/helveticoin/actions)
 [![Frontend CI](https://github.com/VKATHUSHAN/helveticoin/workflows/Frontend%20CI%2FCD/badge.svg)](https://github.com/VKATHUSHAN/helveticoin/actions)
 [![Python Scripts CI](https://github.com/VKATHUSHAN/helveticoin/workflows/Python%20Scripts%20CI%2FCD/badge.svg)](https://github.com/VKATHUSHAN/helveticoin/actions)
 
-HelvetiCoin (HCHF) is a Swiss Franc-pegged stablecoin that brings the precision and reliability of Swiss financial engineering to the blockchain ecosystem. Built with professional-grade security and compliance features, HCHF serves as a bridge between traditional Swiss banking and decentralized finance.
+HelvetiCoin (HCHF) is a revolutionary meme token that combines Swiss precision with meme culture power! 🏔️⚡ 
+
+From the heart of Zurich, Switzerland, HCHF brings Alpine stability to the decentralized meme economy across Ethereum, BNB Chain, and Sui Network. Experience the future where Swiss engineering meets community-driven innovation!
 
 ## 🌟 Features
 
-- **🏦 Swiss Franc Pegged**: Maintains 1:1 parity with CHF through audited reserves
-- **🔒 Bank-Grade Security**: Built with OpenZeppelin contracts and comprehensive testing
-- **⚖️ Regulatory Compliant**: Designed for Swiss and international regulatory standards
-- **🌐 Multi-Chain**: Available on Ethereum and Tron networks
-- **🔍 Transparent**: Regular Proof of Reserves attestations and open-source code
-- **🌍 Multi-Language**: Supports 6 languages (EN, NL, FR, IT, TA, ES)
+- **🏔️ Alpine Stability**: Swiss-engineered reliability meets meme community power
+- **🔒 Fortress Security**: Bank-grade security with maximum meme potential
+- **🌐 Multi-Chain Memes**: Available on Ethereum, BNB Chain, and Sui Network
+- **🚀 Futuristic DApp**: Next-gen Web3 interface with stunning visuals
+- **🎯 Community Driven**: Built by meme lovers, for meme lovers
+- **🌍 Global Reach**: Multi-language support for worldwide adoption
+
+## 🌐 Links & Community
+
+- **🌍 Website**: [hchfmeme.fun](https://hchfmeme.fun/)
+- **🐦 Twitter/X**: [@helveticowmeme](https://x.com/helveticowmeme)
+- **💬 Telegram**: [t.me/helveticow](https://t.me/helveticow)
+- **💻 GitHub**: [VKATHUSHAN/helveticoin](https://github.com/VKATHUSHAN/helveticoin)
+- **📧 Email**: hello@hchfmeme.fun
+- **📍 Location**: Zurich, Switzerland
+
+## 🚀 Supported Networks
+
+### Primary Networks
+- **Ethereum** - The original blockchain for maximum security
+- **BNB Chain** - Low fees and fast transactions for active trading
+- **Sui Network** - Next-generation performance and scalability
 
 ## 🏗️ Repository Structure
 

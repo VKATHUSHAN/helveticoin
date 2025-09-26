@@ -1,38 +1,39 @@
 {
   "meta": {
-    "title": "HelvetiCoin (HCHF) - Swiss-Minted Stability on Ethereum & Tron",
-    "description": "Experience Swiss precision in digital currency. HelvetiCoin (HCHF) brings the stability of the Swiss Franc to the blockchain ecosystem with professional-grade security and compliance."
+    "title": "HelvetiCoin (HCHF) - Swiss Meme Revolution on Multi-Chain",
+    "description": "Swiss precision meets meme culture! HelvetiCoin (HCHF) brings Alpine stability to the decentralized meme economy across Ethereum, BNB Chain, and Sui Network."
   },
   "navigation": {
     "home": "Home",
+    "trade": "Trade",
     "roadmap": "Roadmap",
     "docs": "Documentation",
     "about": "About",
     "language": "Language"
   },
   "hero": {
-    "headline": "Swiss-Minted Stability on Ethereum & Tron",
-    "subtitle": "Experience the precision of Swiss financial engineering in digital form. HelvetiCoin (HCHF) brings the stability of the Swiss Franc to the decentralized world.",
+    "headline": "Swiss Meme Revolution",
+    "subtitle": "Experience the future of Swiss precision meets meme culture. HelvetiCoin (HCHF) brings Alpine stability to the decentralized meme economy across multiple blockchains.",
     "cta": "Connect Wallet",
-    "learnMore": "Learn More"
+    "learnMore": "Visit Website"
   },
   "features": {
-    "title": "Why Choose HelvetiCoin?",
+    "title": "Why HCHF Meme?",
     "stability": {
-      "title": "Swiss Franc Stability",
-      "description": "Backed by the strength and stability of the Swiss Franc, one of the world's strongest currencies."
+      "title": "Alpine Stability",
+      "description": "Swiss-engineered stability meets meme community power for the ultimate crypto experience."
     },
     "security": {
-      "title": "Bank-Grade Security",
-      "description": "Built with OpenZeppelin contracts and audited by leading security firms for maximum protection."
+      "title": "Fortress Security",
+      "description": "Bank-grade security with meme-level fun. Your tokens are safer than Swiss gold."
     },
     "compliance": {
-      "title": "Regulatory Compliant",
-      "description": "Designed to meet Swiss and international regulatory standards with built-in compliance features."
+      "title": "Meme Compliant",
+      "description": "Regulatory ready with maximum meme potential. From Zurich to the moon!"
     },
     "multichain": {
-      "title": "Multi-Chain Support",
-      "description": "Available on Ethereum and Tron networks with seamless cross-chain functionality."
+      "title": "Multi-Chain Memes",
+      "description": "Available on Ethereum, BNB Chain, and Sui Network. Memes everywhere!"
     }
   },
   "wallet": {
@@ -50,8 +51,9 @@
     "subtitle": "Our journey to bringing Swiss precision to the blockchain"
   },
   "footer": {
-    "tagline": "Swiss Precision. Blockchain Innovation.",
+    "tagline": "Swiss Precision meets Meme Revolution.",
     "links": {
+      "website": "Website",
       "docs": "Documentation",
       "github": "GitHub",
       "twitter": "Twitter",
@@ -63,6 +65,6 @@
       "terms": "Terms of Service",
       "disclaimer": "Risk Disclaimer"
     },
-    "copyright": "© 2024 HelvetiCoin. All rights reserved."
+    "copyright": "© 2024 HelvetiCoin. Swiss-made with ❤️ for the meme community."
   }
 }
